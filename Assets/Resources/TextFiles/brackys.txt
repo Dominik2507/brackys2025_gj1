@@ -1,0 +1,11 @@
+Take 32, because apparently I can't get this intro cut down to under 30 minutes So, hello welcome to the first tutorial done by Brackeys. I am the CEO of Brackeys and today, I'm going to show you how to create a survival game
+
+this is probably going to be a whole series because this can't be done in just one single tutorial and yes, let's see where this brings us, so I have opened up a new Unity project, it's completely empty and you can just do this by going to File and new project and I did not Import any assets
+
+So, this tutorial is for the beginner to the Intermediate, mostly for beginners, and then we'll move on to the other parts later So okay, let's start out by creating a ground plane for our character to move on this is going to be a first person game
+
+so go to game object, create other and then cube and let's make sure that this is in the center of the scene by going to a transform on the right hand side and zeroing out the x y and z transform. So by simply highlighting the cube in the hierarchy and then
+
+Taking my mouse to the perspective view and pressing F it will zoom in on the highlighted objects All right, now let's scale this on the x to about 50, on the y you can just leave that at 1 and the z to again 50. So now we have quite a huge
+
+ground plane for a character to stand on. Let's go to hierarchy on the left hand side rename this to Ground Plane Make sure that you notice that Unity is cap sensitive So I type everything in one word with every word starting with a capital letter, but
